@@ -230,11 +230,11 @@ A Machine Learning project designed to predict customer churn and analyze custom
 * Machine Learning
 
 📁 The repository contains the Jupyter Notebook, presentation, and project documentation.
-<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-08%20210708.png" width="800"> </p>
+
 
 🔗 Live Interactive Dashboard:
 Open Customer Churn Risk Dashboard
-
+<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-18%20133340.png" width="800"> </p>
 ---
 
 ## 🎓 Student Performance Prediction
@@ -257,8 +257,8 @@ A Machine Learning project focused on predicting student performance using relev
 * Machine Learning
 
 📁 Includes the Jupyter Notebook, presentation, and project documentation.
+<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-08%20210708.png" width="800"> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-18%20133340.png" width="800"> </p>
 ---
 
 ## 🏭 PredictX – Industrial Machine Predictive Maintenance
