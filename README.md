@@ -233,7 +233,8 @@ A Machine Learning project designed to predict customer churn and analyze custom
 
 
 🔗 Live Interactive Dashboard:
-Open Customer Churn Risk Dashboard
+[🔗 Open Customer Churn Risk Dashboard](https://customer-churn-risk-dashboard-mxrzikt58xwst3gukfktv7.streamlit.app/)
+
 <p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-18%20133340.png" width="800"> </p>
 ---
 
@@ -286,7 +287,7 @@ The project applies Machine Learning concepts to help identify potential machine
 📁 Includes the PredictX notebook and supporting project documentation.
 
 🔗 Live Interactive Dashboard:
-Open PredictX Dashboard
+[🔗 Open PredictX Dashboard](https://theoretical-bend-washing-code.trycloudflare.com)
 
 📊 Dashboard Preview
 ![PredictX Industrial Machine Predictive Maintenance Dashboard](https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-31%20174103.png)
