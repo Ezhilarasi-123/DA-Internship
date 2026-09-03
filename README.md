@@ -232,7 +232,8 @@ A Machine Learning project designed to predict customer churn and analyze custom
 📁 The repository contains the Jupyter Notebook, presentation, and project documentation.
 <p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-08%20210708.png" width="800"> </p>
 
-https://customer-churn-risk-dashboard-mxrzikt58xwst3gukfktv7.streamlit.app/
+🔗 Live Interactive Dashboard:
+Open Customer Churn Risk Dashboard
 
 ---
 
@@ -256,6 +257,7 @@ A Machine Learning project focused on predicting student performance using relev
 * Machine Learning
 
 📁 Includes the Jupyter Notebook, presentation, and project documentation.
+
 <p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-18%20133340.png" width="800"> </p>
 ---
 
@@ -282,11 +284,14 @@ The project applies Machine Learning concepts to help identify potential machine
 * Machine Learning
 
 📁 Includes the PredictX notebook and supporting project documentation.
+
+🔗 Live Interactive Dashboard:
+Open PredictX Dashboard
+
+📊 Dashboard Preview
+
 <p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-27%20143204.png" width="800"> </p>
 
-https://theoretical-bend-washing-code.trycloudflare.com
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-31%20174103.png" width="800"> </p>
 ---
 
 # 🛠️ Technical Skills Demonstrated
