@@ -138,7 +138,7 @@ An interactive dashboard project focused on analyzing hospital patient records.
 * Interactive analysis
 
 **Tools:** Power BI / Tableau
-<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%202/images/Screenshot%202026-06-28%20201029.png" width="800"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%202/images/Screenshot%202026-07-08%20114813.png" width="800"> </p>
 ---
 
 ### 🏪 Retail Sales Performance Dashboard
@@ -154,7 +154,7 @@ A business intelligence dashboard designed to analyze **retail sales performance
 * Interactive visualization
 
 **Tool:** Power BI
-<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%202/images/Screenshot%202026-07-08%20114813.png" width="800"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%202/images/Screenshot%202026-06-28%20201029.png" width="800"> </p>
 ---
 
 ### 💼 Fake Job Posting Detection Dashboard
