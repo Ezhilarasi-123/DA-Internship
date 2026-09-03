@@ -289,7 +289,7 @@ The project applies Machine Learning concepts to help identify potential machine
 Open PredictX Dashboard
 
 📊 Dashboard Preview
-
+![PredictX Industrial Machine Predictive Maintenance Dashboard](https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-31%20174103.png)
 ---
 
 # 🛠️ Technical Skills Demonstrated
