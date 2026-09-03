@@ -48,6 +48,8 @@ An e-commerce sales analysis project developed using **Excel and SQL** to explor
 
 **Tools:** Microsoft Excel, SQL
 
+<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%201/images/Screenshot%202026-05-22%20205831.png" width="800"> </p>
+
 📁 The folder contains the project dataset, presentation, reports, and supporting files.
 
 ---
@@ -99,6 +101,7 @@ Practical SQL exercises and mini-projects were completed to develop database que
 * Analytical queries
 
 **Tool:** SQL
+<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%201/images/Screenshot%202026-05-27%20120450.png" width="800"> </p>
 
 ---
 
@@ -115,7 +118,7 @@ The Telco Customer Churn dataset was included for customer analytics and further
 * Customer retention
 
 **Dataset:** Telco Customer Churn
-
+<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%201/images/Screenshot%202026-06-18%20203435.png" width="800"> </p>
 ---
 
 # 📅 Month 2 – Business Intelligence & Data Visualization
