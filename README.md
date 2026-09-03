@@ -290,8 +290,6 @@ Open PredictX Dashboard
 
 📊 Dashboard Preview
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-27%20143204.png" width="800"> </p>
-
 ---
 
 # 🛠️ Technical Skills Demonstrated
