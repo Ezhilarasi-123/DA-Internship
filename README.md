@@ -286,8 +286,8 @@ The project applies Machine Learning concepts to help identify potential machine
 
 📁 Includes the PredictX notebook and supporting project documentation.
 
-🔗 Live Interactive Dashboard:
-[🔗 Open PredictX Dashboard](https://theoretical-bend-washing-code.trycloudflare.com)
+🌐 **Portfolio Website:**  
+[🔗 Visit My Portfolio](https://eloquent-crumble-7a6bf6.netlify.app/)
 
 📊 Dashboard Preview
 ![PredictX Industrial Machine Predictive Maintenance Dashboard](https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-31%20174103.png)
