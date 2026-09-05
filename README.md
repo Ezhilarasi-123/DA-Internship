@@ -290,7 +290,7 @@ The project applies Machine Learning concepts to help identify potential machine
 [🔗 Visit My Portfolio](https://eloquent-crumble-7a6bf6.netlify.app/)
 
 📊 Dashboard Preview
-![PredictX Industrial Machine Predictive Maintenance Dashboard](https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-08-31%20174103.png)
+![Dashboard](https://raw.githubusercontent.com/Ezhilarasi-123/DA-Internship/main/Month%203/images/Screenshot%202026-09-05%20113223.png)
 ---
 
 # 🛠️ Technical Skills Demonstrated
