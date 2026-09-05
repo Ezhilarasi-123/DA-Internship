@@ -286,7 +286,7 @@ The project applies Machine Learning concepts to help identify potential machine
 
 📁 Includes the PredictX notebook and supporting project documentation.
 
-🌐 **Portfolio Website:**  
+🌐 **PredictX Industrial Machine Dashboard:**  
 [🔗 Visit My Portfolio](https://eloquent-crumble-7a6bf6.netlify.app/)
 
 📊 Dashboard Preview
